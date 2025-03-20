@@ -1,0 +1,8 @@
+
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(íËƒ}
+R
+java:S1854#"7Remove this useless assignment to local variable "end".( ž´›øÿÿÿÿ
+C
+java:S1481#"(Remove this unused "end" local variable.( ž´›øÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(ÙìÙŸúÿÿÿÿ
