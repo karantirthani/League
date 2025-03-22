@@ -1,12 +1,0 @@
-
-k	java:S1160"QRename this field "MODULO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‚æßûÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(ò‹Ô¨
-V	java:S125 "<This block of commented-out lines of code should be removed.(„ìšßûÿÿÿÿ
-h
-java:S37761"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(§à—
-@	java:S106C"+Replace this use of System.out by a logger.(¤Ï’
-@	java:S106F"+Replace this use of System.out by a logger.(Ñ¢òå
-@	java:S106R"+Replace this use of System.out by a logger.(ÃÓ„Å
-E	java:S106U"+Replace this use of System.out by a logger.(ØÎ¸ôúÿÿÿÿ
-:
-java:S1659n"Declare "r" on a separate line.(ÉÚµ©ûÿÿÿÿ
